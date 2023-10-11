@@ -1,16 +1,23 @@
-### Hi there 👋
+![image](https://github.com/Spooks4576/Spooks4576/assets/62370103/de18f164-68d4-44df-89de-f226b757711f)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Autour+One&size=25&pause=1000&color=8900F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+a+Spooky+Github)](https://git.io/typing-svg)
+# 👻 About Me
 
-<!--
-**Spooks4576/Spooks4576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+    <img align="left" height="260vh" src="https://github.com/Spooks4576/Spooks4576/assets/62370103/3561b6e5-06de-42f2-ba67-e7eed1300827">
+    <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Name...................:  Spooky
+Age....................:  21 years old
+Pronouns...............:  He/Him
+Mostly programming in..:  C++
+Intetests..............:  Cybersecurity, Gaming,
+                          Programming, Pentesting,
+                          Data Mining
+Socials................:
+  Discord..............: @spooky4576
+  GitHub...............: @Spooks4576
+  Reddit...............: @u/Spookyz4576
+```
