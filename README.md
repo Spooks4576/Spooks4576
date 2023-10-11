@@ -4,7 +4,7 @@
 
 
 <div>
-    <img align="left" height="260vh" src="https://github.com/Spooks4576/Spooks4576/assets/62370103/3561b6e5-06de-42f2-ba67-e7eed1300827">
+    <img align="left" height="260vh" src="https://cdn.discordapp.com/attachments/1160033538175926292/1161613098403254314/the-office-the.gif">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
