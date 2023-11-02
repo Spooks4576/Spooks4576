@@ -4,7 +4,7 @@
 
 
 <div>
-    <img align="left" height="260vh" src="https://cdn.discordapp.com/attachments/1169457589629759599/1169494320622084177/ezgif.com-optimize.gif">
+    <img align="left" height="260vh" src="https://cdn.discordapp.com/attachments/1169457589629759599/1169494320622084177/ezgif.com-optimize.gif?ex=65559b76&is=65432676&hm=bc39fd2e0c43993c321a488ca1aec79ac628eafcdfcc53388a6803716da8b947">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
