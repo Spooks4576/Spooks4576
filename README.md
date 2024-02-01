@@ -13,7 +13,7 @@ Name...................:  Spooky
 Age....................:  21 years old
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
-Intetests..............:  Cybersecurity, Gaming,
+Intrests..............:  Cybersecurity, Gaming,
                           Programming, Pentesting,
                           Data Mining
 Socials................:
