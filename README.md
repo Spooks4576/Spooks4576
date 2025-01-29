@@ -1,4 +1,4 @@
-![image](https://github.com/Spooks4576/Spooks4576/assets/62370103/de18f164-68d4-44df-89de-f226b757711f)
+![image](https://cdn.spookytools.com/assets/Untitled.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Autour+One&size=25&pause=1000&color=8900F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+a+Spooky+Github)](https://git.io/typing-svg)
 # 👻 About Me
 
