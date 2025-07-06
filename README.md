@@ -10,12 +10,12 @@
 
 ```
 Name...................:  Spooky
-Age....................:  22 years old
+Age....................:  23 years old
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
 Intrests..............:  Cybersecurity, Gaming,
                           Programming, Pentesting,
-                          Data Mining
+                          Data Mining, Lack of Sleep
 Socials................:
   Discord..............: @spooky4576
   GitHub...............: @Spooks4576
