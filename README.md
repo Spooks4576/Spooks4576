@@ -40,7 +40,7 @@ I love experimenting at the intersection of **music technology**, **cybersecurit
 ### ⚙️ Tech Stack
 
 **Languages:**  
-`C++` · `Python` · `JavaScript`
+`C` · `C++` · `C#` · `Python` · `JavaScript`
 
 **Tools & Environments:**  
 `Visual Studio Code` · `FL Studio` · `Unreal Engine` · `Git` · `OBS Studio`
