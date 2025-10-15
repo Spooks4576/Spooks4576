@@ -30,7 +30,7 @@ I love experimenting at the intersection of **music technology**, **cybersecurit
 
 ### 🌐 Connect With Me
 
-- 🎮 **Discord:** [`@spooky4576`](https://discord.com/users/spooky4576)  
+- 🎮 **Discord:** [`@am_spooky4576`](https://discord.com/users/am_spooky4576)  
 - 🧑‍💻 **GitHub:** [@Spooks4576](https://github.com/Spooks4576)  
 - 👾 **Reddit:** [u/Spookyz4576](https://www.reddit.com/user/Spookyz4576)  
 - 💬 **Portfolio / Projects:** [spookytools.com](https://spookytools.com)  
