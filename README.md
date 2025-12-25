@@ -1,4 +1,3 @@
-![Header Banner](https://cdn.spookytools.com/assets/Untitled.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Autour+One&size=25&pause=1000&color=8900F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+a+Spooky+GitHub)](https://git.io/typing-svg)
 
 # 👻 About Me
