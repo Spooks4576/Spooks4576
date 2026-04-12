@@ -1,37 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Autour+One&size=25&pause=1000&color=8900F7&center=true&vCenter=true&width=435&lines=Welcome+to+a+Spooky+GitHub )](https://git.io/typing-svg )
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Autour+One&size=25&pause=1000&color=8900F7&center=true&vCenter=true&width=435&lines=Welcome+to+a+Spooky+GitHub)](https://git.io/typing-svg)
 
 # 👻 Spooky / Spooks4576
 
-**Sound designer + coder** messing around with audio tools, game dev, and breaking things (legally).  
+**Software developer** working across embedded systems, backend dev, and security tooling.  
 23, he/him.
 
-I build stuff where sound meets low-level systems—think game audio engines, interactive tools, and cybersecurity experiments. Mostly C++ and Python, occasional JavaScript when forced.
+I build things at the intersection of low-level systems and practical software — from ESP32 firmware to backend APIs and everything in between. Mostly C++ and Python, JavaScript when needed.
 
-**Current fixations:** interactive audio tools, music production workflows, reverse engineering weird stuff
+**Current fixations:** embedded systems, security tooling, reverse engineering, and building tools that actually solve problems.
 
 ## Contact
 
 - **Discord:** @am_spooky4576
-- **Email:** spooky@4fingerstudios.com  
-- **Site:** [spookytools.com](https://spookytools.com)
+- **Email:** spooky@4fingerstudios.com
+- **Site:** [4fingerstudios.com](https://4fingerstudios.com)
 
 ## Stack
 
 **Languages:** C, C++, C#, Python, JavaScript  
-**Tools:** VS Code, FL Studio, Unreal Engine, Git, OBS  
-**Into:** Sound design, game audio, tool dev, infosec
+**Tools:** VS Code, Unreal Engine, Git  
+**Into:** Embedded systems, infosec, tool dev, backend dev
 
 ## Projects
 
 **Ghost_ESP** (Archived)  
-Open source ESP32/8266 project I worked on for a while. Discontinued but left up in case anyone wants to dig through the code. C++ mostly.
+Open source ESP32/8266 firmware for wireless security research. Reached 23 releases with an active user base across the hardware hacking community. Archived — feel free to fork.
 
-**SpookyTools.com**  
-My personal site—random utilities, experiments, and portfolio stuff. HTML/CSS/JS backend, nothing fancy but it works.
-
-**4FingerStudios**  
-Lead dev for the studio. Built the site, backend APIs, all that. JavaScript/Node stack.
+**4FingerStudios** — [4fingerstudios.com](https://4fingerstudios.com)  
+Lead IT Director for an independent multimedia studio. Responsible for full stack architecture, backend API design, infrastructure, and technical direction across all studio projects. JavaScript/Node stack.
 
 ---
 
-*I just like making noise and breaking binaries*
+*Making noise and breaking binaries*
