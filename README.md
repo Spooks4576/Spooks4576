@@ -3,7 +3,7 @@
 # 👻 Spooky / Spooks4576
 
 **Software developer** working across embedded systems, backend dev, and security tooling.  
-23, he/him.
+24, he/him.
 
 I build things at the intersection of low-level systems and practical software — from ESP32 firmware to backend APIs and everything in between. Mostly C++ and Python, JavaScript when needed.
 
