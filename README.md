@@ -13,6 +13,7 @@ I build things at the intersection of low-level systems and practical software â
 
 - **Discord:** @am_spooky4576
 - **Email:** spooky@4fingerstudios.com
+- **Personal Site:** [spookie.dev](https://spookie.dev)
 - **Site:** [4fingerstudios.com](https://4fingerstudios.com)
 
 ## Stack
